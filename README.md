@@ -28,13 +28,13 @@ To identify, review, and remove any potentially harmful browser extensions to im
 | Extension Name                   | Action Taken    | Reason/Notes                                 |
 | -------------------------------- | --------------- | -------------------------------------------- |
 | Google Docs Offline              | Kept            | Official trusted extension from Google       |
-| McAfee® WebAdvisor               | Kept (Optional) | Security tool for detecting harmful websites |
+| McAfee® WebAdvisor               | Kept            | Security tool for detecting harmful websites |
 | Wappalyzer - Technology Profiler | Kept            | Useful for technology profiling, safe to use |
 | Suspicious Extensions (Previous) | Removed         | Unknown source and had errors                |
 
 ---
 
-## Learnings/Outcome:
+## Learnings:
 1. I learned how to identify trusted and suspicious extensions.
 2. I understood the risks of malicious extensions, such as:
 
